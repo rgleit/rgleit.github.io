@@ -1,6 +1,7 @@
 ## Rebecca D. Gleit
-**PhD Candidate, Sociology**
-**Stanford University** 
+
+**PhD Candidate, Sociology** \
+**Stanford University**
 
 Teaching Portfolio at [bit.ly/GleitPortfolio](http://bit.ly/GleitPortfolio)
 
