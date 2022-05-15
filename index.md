@@ -1,6 +1,8 @@
 **PhD Candidate, Sociology** \
 **Stanford University**
 
+link to research [here](https://rgleit.github.io/research)
+
 I am a PhD candidate in Sociology. I am also a current Graduate Teaching Fellow at the [Stanford Center for Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/people/rebecca-gleit) and a former Institute for Education Sciences (IES) fellow through the [Stanford Center for Education Policy and Analysis](https://cepa.stanford.edu/people/rebecca-gleit). 
 
 I hold a B.S. in Mathematics from the University of Michigan and an M.Ed. in Educational Policy and Leadership from Marquette University. Before arriving at Stanford, I taught high school math in Milwaukee, Wisconsin. Through both my research and my teaching, I aim to create more equitable spaces for young people. 
