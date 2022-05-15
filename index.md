@@ -1,7 +1,8 @@
-# Rebecca D. Gleit
-## Sociology PhD Candidate
+## Rebecca D. Gleit
+**PhD Candidate, Sociology
+Stanford University** 
 
-## Welcome to GitHub Pages
+Teaching Portfolio at [bit.ly/GleitPortfolio](http://bit.ly/GleitPortfolio)
 
 You can use the [editor on GitHub](https://github.com/rgleit/rgleit.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
